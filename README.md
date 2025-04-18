@@ -35,8 +35,6 @@ It provides a user-friendly interface, basic authentication, and centralized dat
 - **Language:** C# (.NET Framework)
 - **UI:** Windows Forms (WinForms)
 - **Database:** SQL Server / SQLite
-- **Data Access:** ADO.NET / Entity Framework (based on your implementation)
-
 ---
 
 📄 License
